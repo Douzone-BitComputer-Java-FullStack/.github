@@ -1,4 +1,6 @@
-## Hi there 👋
+## Douzone / BitComputer Java FullStack Eud
+
+### 기간: 2023.05.18 ~ 
 
 <!--
 
